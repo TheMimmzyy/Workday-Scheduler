@@ -1,30 +1,32 @@
 body {
   background-color: lavender;
 }
+
 header {
   border-bottom-width: 10px;
 }
+
 textarea {
-    resize: none;
-  }
-  
+ resize: none;
+}
+
 .past-hour {
-    background-color: rgb(212, 196, 230);
-    border-color: rgb(168, 136, 211);
-  }
+  background-color: rgb(212, 196, 230);
+  border-color: rgb(168, 136, 211);
+}
   
 .present-hour {
-    background-color: rgb(120, 166, 192);
-    border-color: rgb(71, 134, 170);
-  }
+  background-color: rgb(120, 166, 192);
+  border-color: rgb(71, 134, 170);
+}
   
 .future-hour {
-    background-color: rgb(190, 68, 68);
-    border-color: rgb(209, 71, 78);
-  }
+  background-color: rgb(190, 68, 68);
+  border-color: rgb(209, 71, 78);
+}
   
 button {
-    background-color: rgb(39, 59, 238);
-    border-radius: 0px 5px 5px 0px;
-    font-size: 50px;
-  }
+  background-color: rgb(39, 59, 238);
+  border-radius: 0px 5px 5px 0px;
+  font-size: 50px;
+}
