@@ -1,6 +1,9 @@
 body {
   background-color: lavender;
 }
+header {
+  border-bottom-width: 10px;
+}
 textarea {
     resize: none;
   }
@@ -23,12 +26,5 @@ textarea {
 button {
     background-color: rgb(39, 59, 238);
     border-radius: 0px 5px 5px 0px;
-  }
-  
-header {
-    border-bottom-width: 10px;
-  }
-  
-button {
-    font-size: 2em;
+    font-size: 50px;
   }
